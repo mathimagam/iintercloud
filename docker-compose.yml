@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockerwithdotnet:
+    image: ${DOCKER_REGISTRY}dockerwithdotnet
+    build:
+      context: .\docker with dotnet
+      dockerfile: Dockerfile

@@ -1,0 +1,11 @@
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\docker with dotnet.dll
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\System.Web.Optimization.dll
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\docker with dotnet.pdb
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\docker with dotnet.dll.config
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\System.Web.Optimization.xml
+C:\Users\mathivathana.p\source\repos\docker with dotnet\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mathivathana.p\source\repos\docker with dotnet\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\mathivathana.p\source\repos\docker with dotnet\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\mathivathana.p\source\repos\docker with dotnet\obj\Debug\docker-compose.dcproj.CopyComplete

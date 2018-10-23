@@ -1,0 +1,14 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  dockerwithdotnet:
+    build:
+      context: C:\Users\mathivathana.p\source\repos\docker with dotnet\docker with
+        dotnet
+      dockerfile: Dockerfile
+    image: dockerwithdotnet
+    ports:
+    - target: 80
+version: '3.4'
